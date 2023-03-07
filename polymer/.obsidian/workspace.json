@@ -11,8 +11,10 @@
             "id": "f2e7546fdcdff24b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Literature Review/Bae 2011 Application of geometric algorithm of time-temperature superposition to linear viscoelasticity of rubber compounds.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature Review/Bae 2011 Application of geometric algorithm of time-temperature superposition to linear viscoelasticity of rubber compounds.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literature Review/Bae 2011 Application of geometric algorithm of time-temperature superposition to linear viscoelasticity of rubber compounds.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Literature Review/Bae 2011 Application of geometric algorithm of time-temperature superposition to linear viscoelasticity of rubber compounds.pdf"
+              }
             }
           }
         ]
@@ -139,5 +145,8 @@
     }
   },
   "active": "f2e7546fdcdff24b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Literature Review/Bae 2011 Application of geometric algorithm of time-temperature superposition to linear viscoelasticity of rubber compounds.pdf",
+    "Literature Review"
+  ]
 }
